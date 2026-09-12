@@ -1,6 +1,6 @@
 let modInfo = {
 	name: "The vivid/stasis Tree",
-	author: "nobody",
+	author: "ASWRYTS",
 	pointsName: "points",
 	modFiles: ["layers.js", "tree.js"],
 
